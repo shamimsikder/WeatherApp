@@ -1,5 +1,5 @@
 
-# WeatherApp
+# Description
 
 This is a simple weather web application and from this application we can search a city by it's name and find 
 details about Co-ordinate,Temperature(°C),Humidity etc. We used Django and bootstrap to create this
