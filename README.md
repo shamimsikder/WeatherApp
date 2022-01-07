@@ -42,3 +42,6 @@ Then just run the code
 ```bash
   python manage.py runserver
 ```
+# Reference
+
+Site: https://www.youtube.com/watch?v=E-n5QAuQSr8&t=14s
